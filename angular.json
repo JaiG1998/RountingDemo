@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RountingDemo"
+    }
+  },
+  "defaultProject": "RountingDemo",
+  "cli": {
+    "analytics": false
+  }
 }
